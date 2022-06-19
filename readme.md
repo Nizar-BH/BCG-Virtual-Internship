@@ -1,5 +1,5 @@
-##This project  is realized within my internship at BCG GAMMA.<br>
-###It's an official certified internship where I worked on the following:<br>
+## This project  is realized within my internship at BCG GAMMA.<br>
+## it's an official certified internship where I worked on the following:<br>
 Built a machine learning project to predict Customer Churning of an
 electricity and gas company given customer consumption and prices data: <br>
 * Sutdying the price sensitivity factor on the customer churning.
