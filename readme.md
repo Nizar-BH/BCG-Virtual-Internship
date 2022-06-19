@@ -6,3 +6,6 @@ electricity and gas company given customer consumption and prices data: <br>
 * Studying the correlations between features of multiple datasets.
 * Preparing the necessary data for the modelling phase.
 * Deploying the model and presenting the main insights to the client.
+### Technologies used
+Python - Pandas - Numpy - Sklearn - Plotly - Matplotlib
+Seaborn - PowerPoint - Catboost - XGBoost - LightGBM
